@@ -40,4 +40,4 @@
 
 <b> Baekjoon Tier </b>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssh33)](https://solved.ac/ktmkjj88/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssh33)](https://solved.ac/ssh33/)
