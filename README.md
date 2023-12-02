@@ -31,7 +31,7 @@
 > * __Learning Transferable Visual Models From Natural Language Supervision / [CLIP](https://)__
 > * __Attention is all you need / [Transformer](https://)__
 
-> #### 일부 리뷰는 [Tistory](https://)에서 확인할 수 있습니다.
+> #### 일부 리뷰는 [Tistory](https://devhyuk96.tistory.com/)에서 확인할 수 있습니다.
 ----
 
 ﻿﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhyuk96&langs_count=10&layout=compact&theme=white)](https://github.com/taemin6697/taemin6697)﻿
