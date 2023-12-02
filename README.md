@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flate&logo=c&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
-    <img src="https://img.shields.io/bdjfak나 많은 방문자가 나의 github을 봤는지알 수 있도록 도와준ㄷ adge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
+    <img src="https://img.shields.io/bdadge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=falt&logo=Raspberry-Pi"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
