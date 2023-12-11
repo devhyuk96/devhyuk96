@@ -23,7 +23,7 @@
 ---
     
 ### Competitions & Project
-> * __Dacon - 2023 대구 교통사고 피해 예측 AI 경진대회 38th(4%), [Dacon](https://dacon.io/competitions/official/236193/overview/description)/ 2023.12.04 ~ 2023.12.11
+> * __Dacon - 2023 대구 교통사고 피해 예측 AI 경진대회 38th(4%), [Dacon](https://dacon.io/competitions/official/236193/overview/description)__ / 2023.12.04 ~ 2023.12.11
 > * __메타버스기반 휴대용 호흡재활 장치 개발, [중소기업기술정보진흥원](https://www.tipa.or.kr/)__ / 2023-01. ~ 2023-02.
 > * __메타버스 디지털 트윈 기반 소아청소년 비만 자가 건강관리 서비스 개발, [한국보건산업진흥원](https://www.khidi.or.kr/kps)__ / 2022-07. ~ 2023-06.
 > * __소아중증천식환자에서 딥러닝을 이용한 레독스 항상성 기반의 비약물 중재 평가 및 치료 모델 연구, [한국연구재단](https://www.nrf.re.kr/index)__ / 2022-03. ~ 2023-02.
@@ -39,7 +39,7 @@
 ### Certifications 
 > * __인공지능활용분석능력2급(2023.11.20) / [한국정보인재개발원](https://krdi.co.kr:44148/)__
 > * __파이썬프로그래밍활용능력2급(2023.11.13) / [한국정보인재개발](https://krdi.co.kr:44148/)__
-> * __파이썬프로그래밍활용능력2급(2023.03.31) / [boostcamp](https://www.boostcourse.org/)__
+> * __그래프와추천시스템(2023.03.31) / [boostcamp](https://www.boostcourse.org/)__
 
 ----
 ﻿﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhyuk96&langs_count=10&layout=compact&theme=white)](https://github.com/devhyuk96)﻿
