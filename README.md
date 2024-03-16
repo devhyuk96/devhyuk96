@@ -1,4 +1,4 @@
-### How are you? 👋 I'm Sang-hyuk Seo who is to become an Engineers who make the world comfortable.
+### How are you? 👋 My name is Seo Sang-hyuk and I want to become an engineer who makes the world more comfortable.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevhyuk96&count_bg=%23000000&title_bg=%23EDD8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
