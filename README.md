@@ -17,8 +17,9 @@
 ---
 
 ### Experiences
+> * __LG Aimers 4기, [LGAimers](https://www.lgaimers.ai/)__ / 2024.01 ~ 2024.02 
 > * __Upstage AI Lab 1th, [Fastcampus Co., Inc.](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)__ / 2023.10 ~
-> * __Hansung University Undergraduate researcher : [Visual Intelligence Lab.](https://sites.google.com/view/hs-vilab)__ / 2023.02 ~ 
+> * __Hansung University Undergraduate researcher : [Visual Intelligence Lab.](https://sites.google.com/view/hs-vilab)__ / 2023.02 ~ 2024.01
 > * __Hansung University Undergraduate researcher : [bgloh Lab.](https://edu.hansung.ac.kr/web/bgloh)__ / 2022.01 ~ 2023.06
 ---
     
