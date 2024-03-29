@@ -43,7 +43,7 @@
 > * __인공지능활용분석능력2급(2023.11.20) / [한국정보인재개발원](https://krdi.co.kr:44148/)__
 > * __파이썬프로그래밍활용능력2급(2023.11.13) / [한국정보인재개발](https://krdi.co.kr:44148/)__
 > * __그래프와추천시스템(2023.03.31) / [boostcamp](https://www.boostcourse.org/)__
-> * __LG Aimers 4기(2024.03.05) / [LG Aimers 4기](https://github.com/devhyuk96/LG-Aimers-4)__
+> * __LG Aimers 4기(2024.03.05) / [LG Aimers 4기](https://github.com/devhyuk96/LG-Aimers-4/blob/main/LG%20AI.pdf)__
 
 ----
 ﻿﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhyuk96&langs_count=10&layout=compact&theme=white)](https://github.com/devhyuk96)﻿
