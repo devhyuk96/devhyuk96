@@ -27,8 +27,8 @@
 > * __LG Aimers - MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발 private 40th(5%), public 102th(12%), [LGAimers](https://www.lgaimers.ai/)__ / 2024.01 - 2024.02
 > * __Dacon - 2023 대구 교통사고 피해 예측 AI 경진대회 private 25th, public 37th(4%), [Dacon](https://dacon.io/competitions/official/236193/overview/description)__ / 2023.12 - 2023.12
 > * __메타버스기반 휴대용 호흡재활 장치 개발, [중소기업기술정보진흥원](https://www.tipa.or.kr/)__ / 2023.01 - 2023.02
-> * __메타버스 디지털 트윈 기반 소아청소년 비만 자가 건강관리 서비스 개발, [한국보건산업진흥원](https://www.khidi.or.kr/kps)__ / 2022.07 - 2023.06
 > * __2022 제1회 국방 인공지능 경진대회(MAICON, Military AICompetitiON) pritvate 22th(5%), [국방부](https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp)__ / 2022.09 - 2022.12
+> * __메타버스 디지털 트윈 기반 소아청소년 비만 자가 건강관리 서비스 개발, [한국보건산업진흥원](https://www.khidi.or.kr/kps)__ / 2022.07 - 2023.06
 > * __소아중증천식환자에서 딥러닝을 이용한 레독스 항상성 기반의 비약물 중재 평가 및 치료 모델 연구, [한국연구재단](https://www.nrf.re.kr/index)__ / 2022.03 - 2023.02
 ----
 
