@@ -24,7 +24,7 @@
 ---
     
 ### Competitions & Project
-> * __모델 튜닝 챌린지 : RF 하이퍼파라미터 최적화 경진대회 private 2th(1%) [Dacon](https://dacon.io/competitions/official/236229/overview/description)__ / 2024.03 - 2024.04
+> * __모델 튜닝 챌린지 : RF 하이퍼파라미터 최적화 경진대회 public 323th, private 2th(1%), [Dacon](https://dacon.io/competitions/official/236229/overview/description)__, [Repo](https://dacon.io/competitions/official/236229/overview/description)__ / 2024.03 - 2024.04
 > * __LG Aimers - MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발 public 40th(5%), private 102th(12%), [LG Aimers 4기](https://github.com/devhyuk96/LG-Aimers-4)__ / 2024.01 - 2024.02
 > * __Dacon - 2023 대구 교통사고 피해 예측 AI 경진대회 public 25th(3%), private 37th(4%), [Dacon](https://dacon.io/competitions/official/236193/overview/description)__ / 2023.12 - 2023.12
 > * __메타버스기반 휴대용 호흡재활 장치 개발, [중소기업기술정보진흥원](https://www.tipa.or.kr/)__ / 2023.01 - 2023.02
