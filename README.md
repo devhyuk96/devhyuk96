@@ -15,6 +15,10 @@
     <br/>
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=falt&logo=Raspberry-Pi"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
+    <br/>
+    <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=plastic&logo=Git&logoColor=white"/>
+    <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>
+    <br/>
     
 ---
 
