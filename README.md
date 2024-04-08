@@ -53,10 +53,19 @@
 > * __LG Aimers 4기(2024.03.05) / [LG Aimers 4기](https://github.com/devhyuk96/LG-Aimers-4/blob/main/LG%20AI.pdf)__
 
 ----
+
+### Tech Stack 
+
 ﻿﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhyuk96&langs_count=10&layout=compact&theme=white)](https://github.com/devhyuk96)﻿
 ﻿
 ---
 
-<b> Baekjoon Tier </b>
+### Baekjoon Algorithm 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssh33)](https://solved.ac/ssh33/)
+
+----
+
+### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devhyuk96&show_icons=true&theme=highcontrast)
