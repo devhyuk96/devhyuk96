@@ -40,9 +40,9 @@
 ----
 
 ### Certifications 
-> * __인공지능활용분석능력2급(2023.11.20) / [한국정보인재개발원](https://krdi.co.kr:44148/)__
-> * __파이썬프로그래밍활용능력2급(2023.11.13) / [한국정보인재개발](https://krdi.co.kr:44148/)__
-> * __그래프와추천시스템(2023.03.31) / [boostcamp](https://www.boostcourse.org/)__
+> * __인공지능 활용분석능력 2급(2023.11.20) / [한국정보 인재개발원](https://krdi.co.kr:44148/)__
+> * __파이썬프로그래밍 활용능력 2급(2023.11.13) / [한국정보 인재개발](https://krdi.co.kr:44148/)__
+> * __그래프와 추천시스템(2023.03.31) / [boostcamp](https://www.boostcourse.org/)__
 > * __LG Aimers 4기(2024.03.05) / [LG Aimers 4기](https://github.com/devhyuk96/LG-Aimers-4/blob/main/LG%20AI.pdf)__
 
 ----
